@@ -2,6 +2,9 @@
 This repo contains Practical Assignment 17, predicting customer purchase on a bank term subscription.
 
 
+
+JK_Final_Bank_Prac3.ipynb
+
 **Business Objective:**
 
 The main goal of this project is to predict whether a potential bank client is likely to subscribe to a long-term deposit based on their characteristics and past interactions, and to use this prediction to improve the effectiveness of marketing campaigns. Essentially, we want to find the clients who are most likely to say "yes" to the offer before we even contact them, so we can focus our efforts on those most promising leads.
