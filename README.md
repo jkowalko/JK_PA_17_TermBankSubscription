@@ -1,9 +1,20 @@
 # JK_PA_17_TermBankSubscription
-This repo contains Practical Assignment 17, predicting customer purchase on a bank term subscription.
+## Overview
+In this practical application, your goal is to compare the performance of the classifiers we encountered in this section, namely K Nearest Neighbor, Logistic Regression, Decision Trees, and Support Vector Machines. We will utilize a dataset related to marketing bank products over the telephone.
+
+The dataset comes from the UCI Machine Learning repository link. The data is from a Portugese banking institution and is a collection of the results of multiple marketing campaigns. We will make use of the article accompanying the dataset here for more information on the data and features. All outlined in the FILES section below and contained in the repository. 
 
 
 
-JK_Final_Bank_Prac3.ipynb
+## Notebook
+The analysis is detailed in the Jupyter notebook: [JK_Final_Bank_Prac3.ipynb](JK_Final_Bank_Prac3.ipynb)
+
+## Files
+- `JK_Final_Bank_Prac3.ipynb`: Project notebook 
+- `Bank_EDA_YProfileAnalysis.html`: Y-Profile EDA Analysis OUTPUT FILE
+- `bank-additional-full.csv`: Dataset
+- `CRISP-DM-BANK.pdf`: Methodology for Bank Direct Marketing
+- 'https://archive.ics.uci.edu/dataset/222/bank+marketing': LINK to Bank Marketing Dataset and additional resources
 
 **Business Objective:**
 
